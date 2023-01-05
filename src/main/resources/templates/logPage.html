@@ -1,0 +1,109 @@
+﻿<!doctype html>
+<html lang="zxx" xmlns:th="https://www.thymeleaf.org" class="theme-light">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Links of CSS files -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/animate.min.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="/assets/css/flaticon.css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="/assets/css/nice-select.css">
+    <link rel="stylesheet" href="/assets/css/slick.min.css">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/assets/css/meanmenu.css">
+    <link rel="stylesheet" href="/assets/css/odometer.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/responsive.css">
+    <link rel="stylesheet" href="/assets/css/dark-style.css">
+
+    <title>History HTML Template</title>
+
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+</head>
+
+<!-- Preloader -->
+<div class="preloader">
+    <div class="loader">
+        <div class="shadow"></div>
+        <div class="box"></div>
+    </div>
+</div>
+<!-- End Preloader -->
+
+<!-- Start Comparisons Area -->
+<section class="comparisons-area ptb-70 bg-f7fafd">
+    <div class="container">
+        <div class="comparisons-table table-responsive">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th scope="col">Username</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">Currency From</th>
+                    <th scope="col">Currency To</th>
+                    <th scope="col">Rate</th>
+                </tr>
+                </thead>
+
+                <tbody>
+                <tr th:each="logs:${listLog}">
+                    <td th:text="${logs.getUsername()}"></td>
+                    <td th:text="${logs.getDate()}"><i class="flaticon-check-mark"></i></td>
+                    <td th:text="${logs.getCurrencyNameFrom()}"><i class="flaticon-check-mark"></i></td>
+                    <td th:text="${logs.getCurrencyNameTo()}"><i class="flaticon-check-mark"></i></td>
+                    <td th:text="${logs.getRate()}"><i class="flaticon-check-mark"></i></td>
+                </tr>
+
+                </tbody>
+
+            </table>
+
+            <div th:if="${listLog.totalPages > 0}" class="pagination-wrap hstack gap-2">
+                <a th:each="pageNumber: ${pageNumbers}"
+                   class="page-item pagination-prev disabled"
+                   th:href="@{/history(size=${listLog.size}, page=${pageNumber}, dateAfter=${param.dateAfter}, dateBefore=${param.dateBefore})}"
+                   th:text="${pageNumber}">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<!-- End Comparisons Area -->
+
+<div class="go-top"><i class="fas fa-arrow-up"></i></div>
+
+<!-- Dark/Light Toggle -->
+<div class="dark-version">
+    <label id="switch" class="switch">
+        <input type="checkbox" onchange="toggleTheme()" id="slider">
+        <span class="slider round"></span>
+    </label>
+</div>
+
+<!-- Links of JS files -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/js/meanmenu.js"></script>
+<script src="/assets/js/nice-select.min.js"></script>
+<script src="/assets/js/slick.min.js"></script>
+<script src="/assets/js/magnific-popup.min.js"></script>
+<script src="/assets/js/appear.min.js"></script>
+<script src="/assets/js/odometer.min.js"></script>
+<script src="/assets/js/owl.carousel.min.js"></script>
+<script src="/assets/js/parallax.min.js"></script>
+<script src="/assets/js/wow.min.js"></script>
+<script src="/assets/js/form-validator.min.js"></script>
+<script src="/assets/js/contact-form-script.js"></script>
+<script src="/assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="/assets/js/main.js"></script>
+
+</html>

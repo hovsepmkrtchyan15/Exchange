@@ -1,0 +1,27 @@
+package com.example.exchange.entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
+import java.time.LocalDate;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@Table(name = "log")
+@Entity
+public class Log {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
+    private String username;
+    private LocalDate date;
+    private String currencyNameFrom;
+    private String currencyNameTo;
+    private Double rate;
+}

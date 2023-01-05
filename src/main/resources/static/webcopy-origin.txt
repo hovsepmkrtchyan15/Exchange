@@ -1,0 +1,1200 @@
+Uri: https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://templates.envytheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/about-two.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\about-two.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/about.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\about.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/animate.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/bootstrap.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/dark-style.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\dark-style.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/flaticon.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/fontawesome.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/magnific-popup.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/meanmenu.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/nice-select.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/odometer.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\odometer.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/owl.carousel.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/owl.theme.default.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/responsive.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/slick.min.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/css/style.css
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\css\style.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/luvion/default/assets/fonts/Flaticon.eot
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://templates.envytheme.com/luvion/default/assets/fonts/Flaticon.eot?
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://templates.envytheme.com/luvion/default/assets/fonts/Flaticon.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/fonts/Flaticon.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\fonts\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/fonts/Flaticon.woff
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://templates.envytheme.com/luvion/default/assets/fonts/Flaticon.woff2
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\fonts\Flaticon.woff2
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/4.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/404.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\404.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/6.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/7.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/about-img1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\about-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/author1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\author1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/author2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\author2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/author3.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\author3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/author4.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\author4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/banner-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/banner1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/banner2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/circle1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\circle1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-image/main-pic.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-image\main-pic.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/banner-img1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\banner-img1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/bg-map.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\bg-map.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/bg_lines.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\bg_lines.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/black-logo.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\black-logo.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/blog-image/1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\blog-image\1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/blog-image/2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\blog-image\2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/blog-image/3.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\blog-image\3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/blog-image/4.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\blog-image\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/blog-image/5.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\blog-image\5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/blog-image/6.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\blog-image\6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/business-img.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\business-img.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/circle.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\circle.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/client-image/1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\client-image\1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/client-image/2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\client-image\2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/client-image/3.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\client-image\3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/client-image/4.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\client-image\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/client-image/5.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\client-image\5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/about.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\about.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/app/app-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\app\app-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/app/app.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\app\app.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/arrow-circle-down.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\arrow-circle-down.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/arrow-circle-up.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\arrow-circle-up.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/banner/banner-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\banner\banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/banner/circle-check.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\banner\circle-check.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/banner/circle.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\banner\circle.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/china.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\china.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/choose.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\choose.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/circle-check.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\circle-check.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img10.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img10.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img11.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img11.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img12.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img12.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img7.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img7.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img8.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img8.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/countries/img9.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\countries\img9.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/currency.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\currency.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/investors/investors1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\investors\investors1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/investors/investors2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\investors\investors2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/investors/investors3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\investors\investors3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/investors/investors4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\investors\investors4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/investors/investors5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\investors\investors5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/investors/investors6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\investors\investors6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/key-features.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\key-features.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/money-transfer/customer.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\money-transfer\customer.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/money-transfer/data.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\money-transfer\data.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/money-transfer/profits.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\money-transfer\profits.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/page-banner-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\page-banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/send-money-online-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\send-money-online-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/services/contract.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\services\contract.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/services/fluctuation.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\services\fluctuation.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/services/mobile-payment.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\services\mobile-payment.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/services/warning.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\services\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/star.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\star.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/team/team1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\team\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/team/team2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\team\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/team/team3.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\team\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/team/team4.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\team\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/uae.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\uae.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/uk.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\uk.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/working-people/money-saving.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\working-people\money-saving.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/working-people/save-time.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\working-people\save-time.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/working-people/secure.svg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\working-people\secure.svg
+Content Type: image/svg+xml
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/working-people/working-people.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\working-people\working-people.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/currency-transfer-provider/world.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\currency-transfer-provider\world.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/experience-img1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\experience-img1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/faq.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\faq.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/favicon.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/features-img1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\features-img1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/global-img.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\global-img.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/awesome-features.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\awesome-features.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/banner/banner-woman.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\banner\banner-woman.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/banner/woman-shape-1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\banner\woman-shape-1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/banner/woman-shape-2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\banner\woman-shape-2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/blog1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/blog2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/blog3.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/flexibility.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\flexibility.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/funfacts-style-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\funfacts-style-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner-1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner-1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner-2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner-2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner-3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner-3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner-4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner-4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner-5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner-5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner-6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner-6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/partner/partner6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\partner\partner6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/subscribe-wrap-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\subscribe-wrap-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/user.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\user.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/vector-icon.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\vector-icon.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/vector-shape-1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\vector-shape-1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/home-six/vector-shape-2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\home-six\vector-shape-2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/how-it-works-image/1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\how-it-works-image\1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/how-it-works-image/2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\how-it-works-image\2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/how-it-works-image/3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\how-it-works-image\3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/how-it-works-image/4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\how-it-works-image\4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/how-it-works-image/5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\how-it-works-image\5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/how-it-works-image/6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\how-it-works-image\6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/circle1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\circle1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/circle2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\circle2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/invoicing-image/main-pic.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\invoicing-image\main-pic.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/login-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\login-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/logo.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/main-banner1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\main-banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/main-banner2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\main-banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/main-mobile.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\main-mobile.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/map.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\map.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/mobile-app1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\mobile-app1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/mobile-app2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\mobile-app2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/night-mode.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\night-mode.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/page-title-bg1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\page-title-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/page-title-bg2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\page-title-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/page-title-shape.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\page-title-shape.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-10.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-10.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-11.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-11.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-12.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-12.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-13.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-13.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-14.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-14.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-15.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-15.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-16.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-16.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-17.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-17.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-18.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-18.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-7.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-7.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-8.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-8.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-9.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-9.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover10.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover10.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover11.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover11.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover12.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover12.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover13.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover13.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover14.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover14.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover15.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover15.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover16.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover16.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover17.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover17.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover18.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover18.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover6.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover6.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover7.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover7.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover8.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover8.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner-image/partner-hover9.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner-image\partner-hover9.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner3.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner3.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner4.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner4.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/partner5.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\partner5.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/payment-features1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\payment-features1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/payment-features2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\payment-features2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/shape-bg.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\shape-bg.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/signup-bg.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\signup-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/success-story1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\success-story1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/sun.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\sun.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/support-img1.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\support-img1.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/support-img2.png
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\support-img2.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/team-img1.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\team-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/team-img2.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\team-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/team-img3.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\team-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/img/team-img4.jpg
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\img\team-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/appear.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\appear.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/contact-form-script.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\contact-form-script.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/form-validator.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\form-validator.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/jquery.ajaxchimp.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/jquery.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/magnific-popup.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/main.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/meanmenu.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\meanmenu.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/nice-select.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/odometer.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/owl.carousel.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/parallax.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/slick.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/js/wow.min.js
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\assets\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://templates.envytheme.com/luvion/default/blog-1.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\blog-1.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/blog-2.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\blog-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/business.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\business.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/contact-two.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\contact-two.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/contact.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\contact.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/error-404.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\error-404.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/faq.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\faq.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/features-1.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\features-1.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/features-2.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\features-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/how-it-works.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\how-it-works.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index-2.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index-3.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index-3.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index-4.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index-4.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index-5.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index-5.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index-6.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index-6.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index-7.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index-7.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/index.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\index.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/login.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\login.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/personal.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\personal.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/pricing.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\pricing.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/sign-up.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\sign-up.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/single-blog.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\single-blog.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/luvion/default/team.html
+File Name: C:\Users\Hoso\Desktop\shablon1\templates.envytheme.com\luvion\default\team.html
+Content Type: text/html
+

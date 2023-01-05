@@ -1,0 +1,158 @@
+﻿<!doctype html>
+<html lang="zxx" xmlns:th="https://www.thymeleaf.org" class="theme-light">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Links of CSS files -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+        <link rel="stylesheet" href="assets/css/flaticon.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
+		<link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/dark-style.css">
+
+        <title>Exchange - Banking Finance & Money Template</title>
+
+        <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    </head>
+
+        <!-- Preloader -->
+        <div class="preloader">
+            <div class="loader">
+                <div class="shadow"></div>
+                <div class="box"></div>
+            </div>
+        </div>
+        <!-- End Preloader -->
+    <div class="navbar-area currency-transfer-provider-navbar">
+        <div class="luvion-responsive-nav">
+            <div class="container">
+                <div class="luvion-responsive-menu">
+                    <div class="logo">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="luvion-nav">
+            <div class="container-fluid">
+                <nav class="navbar navbar-expand-md navbar-light">
+
+
+                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent" style="display: block;">
+
+
+                        <div class="others-options d-flex align-items-center">
+
+
+                            <div class="options-item">
+                                <a href="/logout" class="btn btn-primary">LOGOUT</a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <div class="others-option-for-responsive">
+            <div class="container">
+                <div class="dot-menu">
+                    <div class="inner">
+                        <div class="circle circle-one"></div>
+                        <div class="circle circle-two"></div>
+                        <div class="circle circle-three"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- Start Currency Transfer Provider Banner Area -->
+        <div class="ctp-banner-area jarallax" data-jarallax='{"speed": 0.3}'>
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-lg-7 col-md-12">
+                        <div class="ctp-banner-content">
+                            <h1>International Currency <span>Exchange</span> Provider</h1>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-5 col-md-12">
+                        <form class="ctp-banner-form" action="/exchange/currency"  method="post">
+                            <div class="form-header">
+                                <span>Exchange Rate</span>
+                                <h3 th:if="${currencyNameFrom !=null}" th:text="1 +' '+ ${currencyNameFrom} +' = ' +  ${rate} +' '+ ${currencyNameTo}"  ></h3>
+                            </div>
+                            <div class="form-content">
+                                <div class="form-group">
+                                    <label>Sum</label>
+                                    <input  class="form-control" name="keyword" th:value="${keyword}"
+                                            autocomplete="off" type="number" step="0.001" min="0" placeholder="0" >
+
+                                </div>
+                                <div class="form-group">
+                                    <label>From</label>
+                                    <input  class="form-control" >
+                                    <div class="amount-currency-select">
+                                        <select name="idFrom">
+                                            <option
+                                                    th:each="erc:${erl}" th:text="${erc.getCurrency()}"
+                                                    th:value="${erc.getId()}" th:name="id"
+
+                                            ></option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group zero">
+                                    <label>In</label>
+                                    <input  class="form-control" autocomplete="off" >
+                                    <div class="amount-currency-select">
+                                        <select name="idTo">
+                                            <option
+                                                    th:each="erc:${erl}" th:text="${erc.getCurrency()}"
+                                                    th:value="${erc.getId()}" th:name="id"
+                                            ></option>
+
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <p th:if="${total!=null}" th:text= "'Total: ' + ${total}"></p>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Exchange</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Currency Transfer Provider Banner Area -->
+
+        <!-- Links of JS files -->
+        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/meanmenu.js"></script>
+        <script src="assets/js/nice-select.min.js"></script>
+        <script src="assets/js/slick.min.js"></script>
+        <script src="assets/js/magnific-popup.min.js"></script>
+		<script src="assets/js/appear.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/parallax.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/main.js"></script>
+
+</html>

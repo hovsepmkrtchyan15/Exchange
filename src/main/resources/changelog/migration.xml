@@ -1,0 +1,68 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext
+   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd
+   http://www.liquibase.org/xml/ns/dbchangelog
+   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+    <changeSet id="createTables" author="hmkrtchyan">
+        <createTable tableName="exchange_rates">
+            <column name="id" type="int" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="currency" type="varchar(255)">
+                <constraints nullable="true"/>
+            </column>
+            <column name="rates" type="double">
+                <constraints nullable="true"/>
+            </column>
+            <column name="date" type="date">
+                <constraints nullable="true"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="user">
+            <column name="id" type="int" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="email" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="password" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="role_user" type="ENUM('CLIENT','ADMIN')" defaultValue="CLIENT">
+                <constraints nullable="true"/>
+            </column>
+
+        </createTable>
+
+        <createTable tableName="log">
+            <column name="id" type="int" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="username" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="date" type="date">
+                <constraints nullable="false"/>
+            </column>
+            <column name="currency_name_from" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="currency_name_to" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="rate" type="DOUBLE" >
+                <constraints nullable="false"/>
+            </column>
+
+        </createTable>
+
+
+
+    </changeSet>
+
+</databaseChangeLog>
