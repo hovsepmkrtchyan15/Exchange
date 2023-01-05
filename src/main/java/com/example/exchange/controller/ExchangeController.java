@@ -67,7 +67,7 @@ public class ExchangeController {
         redirectAttributes.addAttribute("currencyNameTo", currencyNameTo);
         log.info("conversion done {}, from {} in {}, at the rate {}, date - {}",
                 currentUser.getUsername(), currencyNameFrom, currencyNameTo, rate, LocalDate.now());
-        logService.saveLog(currencyNameFrom, currencyNameTo, rate, currentUser.getUsername());
+        logService.saveLog(currencyNameFrom, currencyNameTo, rate, currentUser);
 
         return "redirect:/exchange";
     }

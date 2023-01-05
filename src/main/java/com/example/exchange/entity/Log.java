@@ -19,7 +19,8 @@ public class Log {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    private String username;
+    @ManyToOne
+    private User user;
     private LocalDate date;
     private String currencyNameFrom;
     private String currencyNameTo;

@@ -2,6 +2,7 @@ package com.example.exchange.service;
 
 import com.example.exchange.entity.Log;
 import com.example.exchange.repository.LogRepository;
+import com.example.exchange.security.CurrentUser;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.data.domain.Page;
@@ -16,9 +17,9 @@ public class LogService {
 
     private final LogRepository logRepository;
 
-    public void saveLog(String currencyNameFrom, String currencyNameTo, Double rate, String username) {
+    public void saveLog(String currencyNameFrom, String currencyNameTo, Double rate, CurrentUser user) {
         Log log = Log.builder()
-                .username(username)
+                .user(user.getUser())
                 .rate(rate)
                 .currencyNameFrom(currencyNameFrom)
                 .currencyNameTo(currencyNameTo)

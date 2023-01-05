@@ -19,6 +19,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -31,23 +32,21 @@ public class ExchangeService {
     private final ExchangeRatesRepository exchangeRatesRepository;
 
     private static final String CUBE_NODE = "//Cube/Cube/Cube";
-    private static final String CUBE_NODE_TIME = "//Cube/Cube";
     private static final String CURRENCY = "currency";
     private static final String RATE = "rate";
-    private static final String DATE = "time";
+
 
 
     public List<ExchangeRates> findAllByDate(LocalDate date) {
         Optional<List<ExchangeRates>> allByDate = exchangeRatesRepository.findAllByDate(date);
-        if (allByDate.isPresent() && allByDate.get().size() > 0) {
-            return allByDate.get();
+        if (allByDate.isPresent() && allByDate.get().size() == 0) {
+            saveRates();
         }
-        exchangeRatesRepository.deleteAll();
-        saveRates();
-        return exchangeRatesRepository.findAll();
+        return allByDate.get();
     }
 
     public void saveRates() {
+        List<ExchangeRates> exchangeRatesList = new ArrayList<>();
         DocumentBuilderFactory builderFactory =
                 DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = null;
@@ -65,16 +64,8 @@ public class ExchangeService {
 
             XPathFactory xPathfactory = XPathFactory.newInstance();
             XPath xpath = xPathfactory.newXPath();
-
             XPathExpression expr = xpath.compile(CUBE_NODE);
-            XPathExpression time = xpath.compile(CUBE_NODE_TIME);
-
             NodeList nl = (NodeList) expr.evaluate(document, XPathConstants.NODESET);
-            Node nTime = (Node) time.evaluate(document, XPathConstants.NODE);
-
-            NamedNodeMap attributes = nTime.getAttributes();
-            LocalDate date = LocalDate.parse(attributes.getNamedItem(DATE).getNodeValue());
-
             for (int i = 0; i < nl.getLength(); i++) {
                 Node node = nl.item(i);
                 NamedNodeMap attribs = node.getAttributes();
@@ -82,16 +73,19 @@ public class ExchangeService {
                     Node currencyAttrib = attribs.getNamedItem(CURRENCY);
                     if (currencyAttrib != null) {
                         String currency = currencyAttrib.getNodeValue();
-                        String rateTStr = attribs.getNamedItem(RATE).getNodeValue();
+                        String rateStr = attribs.getNamedItem(RATE).getNodeValue();
                         ExchangeRates exchangeRates = ExchangeRates.builder()
                                 .currency(currency)
-                                .rates(Double.valueOf(rateTStr))
-                                .date(date)
+                                .rates(Double.valueOf(rateStr))
+                                .date(LocalDate.now())
                                 .build();
-                        exchangeRatesRepository.save(exchangeRates);
+                        exchangeRatesList.add(exchangeRates);
+
                     }
                 }
             }
+
+            exchangeRatesRepository.saveAll(exchangeRatesList);
         } catch (SAXException | IOException | XPathExpressionException e) {
             e.printStackTrace();
         }

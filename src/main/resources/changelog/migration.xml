@@ -43,7 +43,7 @@
             <column name="id" type="int" autoIncrement="true">
                 <constraints primaryKey="true"/>
             </column>
-            <column name="username" type="varchar(255)">
+            <column name="user_id" type="int">
                 <constraints nullable="false"/>
             </column>
             <column name="date" type="date">
@@ -60,7 +60,11 @@
             </column>
 
         </createTable>
-
+        <addForeignKeyConstraint baseTableName="log"
+                                 baseColumnNames="user_id"
+                                 constraintName="log_user_id_user_id_fk"
+                                 referencedTableName="user"
+                                 referencedColumnNames="id"/>
 
 
     </changeSet>
