@@ -52,7 +52,7 @@
 
                 <tbody>
                 <tr th:each="logs:${listLog}">
-                    <td th:text="${logs.getUsername()}"></td>
+                    <td th:text="${logs.user.getEmail()}"></td>
                     <td th:text="${logs.getDate()}"><i class="flaticon-check-mark"></i></td>
                     <td th:text="${logs.getCurrencyNameFrom()}"><i class="flaticon-check-mark"></i></td>
                     <td th:text="${logs.getCurrencyNameTo()}"><i class="flaticon-check-mark"></i></td>
