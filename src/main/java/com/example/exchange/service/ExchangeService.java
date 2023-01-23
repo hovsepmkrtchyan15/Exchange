@@ -1,105 +1,101 @@
 package com.example.exchange.service;
 
+import com.example.exchange.dto.ExchangeDto;
 import com.example.exchange.entity.ExchangeRates;
+import com.example.exchange.faign.CEBClient;
+import com.example.exchange.mapper.RateMapper;
+import com.example.exchange.parser.CubeRate;
+import com.example.exchange.parser.Envelope;
 import com.example.exchange.repository.ExchangeRatesRepository;
+import javassist.NotFoundException;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Value;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import org.w3c.dom.Document;
-import org.w3c.dom.NamedNodeMap;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.xpath.*;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.URL;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
+import java.io.StringReader;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
 @Service
 @RequiredArgsConstructor
+@Slf4j
 public class ExchangeService {
 
-    @Value("${exchange.currency.url}")
-    private String spec;
     private final ExchangeRatesRepository exchangeRatesRepository;
 
-    private static final String CUBE_NODE = "//Cube/Cube/Cube";
-    private static final String CURRENCY = "currency";
-    private static final String RATE = "rate";
-
+    private final CEBClient cebClient;
+    private final RateMapper mapper;
 
 
     public List<ExchangeRates> findAllByDate(LocalDate date) {
         Optional<List<ExchangeRates>> allByDate = exchangeRatesRepository.findAllByDate(date);
         if (allByDate.isPresent() && allByDate.get().size() == 0) {
             saveRates();
+            findAllByDate(date);
         }
         return allByDate.get();
     }
 
     public void saveRates() {
-        List<ExchangeRates> exchangeRatesList = new ArrayList<>();
-        DocumentBuilderFactory builderFactory =
-                DocumentBuilderFactory.newInstance();
-        DocumentBuilder builder = null;
         try {
-            builder = builderFactory.newDocumentBuilder();
-        } catch (ParserConfigurationException e) {
-            e.printStackTrace();
-        }
-        Document document = null;
-
-        try {
-            URL url = new URL(spec);
-            InputStream is = url.openStream();
-            document = builder.parse(is);
-
-            XPathFactory xPathfactory = XPathFactory.newInstance();
-            XPath xpath = xPathfactory.newXPath();
-            XPathExpression expr = xpath.compile(CUBE_NODE);
-            NodeList nl = (NodeList) expr.evaluate(document, XPathConstants.NODESET);
-            for (int i = 0; i < nl.getLength(); i++) {
-                Node node = nl.item(i);
-                NamedNodeMap attribs = node.getAttributes();
-                if (attribs.getLength() > 0) {
-                    Node currencyAttrib = attribs.getNamedItem(CURRENCY);
-                    if (currencyAttrib != null) {
-                        String currency = currencyAttrib.getNodeValue();
-                        String rateStr = attribs.getNamedItem(RATE).getNodeValue();
-                        ExchangeRates exchangeRates = ExchangeRates.builder()
-                                .currency(currency)
-                                .rates(Double.valueOf(rateStr))
-                                .date(LocalDate.now())
-                                .build();
-                        exchangeRatesList.add(exchangeRates);
-
-                    }
-                }
+            String xml = cebClient.getSbpBankIcons();
+            StringReader sr = new StringReader(xml);
+            JAXBContext jaxbContext = JAXBContext.newInstance(Envelope.class);
+            Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
+            Envelope response = (Envelope) unmarshaller.unmarshal(sr);
+            List<CubeRate> cubes = response.getCube().getCubeTime().getCubes();
+            List<ExchangeRates> exchangeRates = mapper.map(cubes);
+            for (ExchangeRates exchangeRate : exchangeRates) {
+                exchangeRate.setDate(LocalDate.now());
             }
+            exchangeRatesRepository.saveAll(exchangeRates);
 
-            exchangeRatesRepository.saveAll(exchangeRatesList);
-        } catch (SAXException | IOException | XPathExpressionException e) {
-            e.printStackTrace();
+        } catch (JAXBException e) {
+            log.error("Unable get and parse rates for: {}", LocalDate.now());
         }
-
     }
 
-    public Double change(int idFrom, int idTo) {
-        Optional<ExchangeRates> byId = exchangeRatesRepository.findById(idFrom);
-        Optional<ExchangeRates> byId1 = exchangeRatesRepository.findById(idTo);
-        return byId1.get().getRates() / byId.get().getRates();
+    private BigDecimal change(int idFrom, int idTo) throws NotFoundException {
+
+        Optional<ExchangeRates> byIdFrom = exchangeRatesRepository.findById(idFrom);
+        Optional<ExchangeRates> byIdTo = exchangeRatesRepository.findById(idTo);
+        if (byIdFrom.isPresent() && byIdTo.isPresent()) {
+            return (byIdTo.get().getRate().divide((byIdFrom.get().getRate()), 3, RoundingMode.HALF_UP).setScale(3, RoundingMode.HALF_UP));
+        }
+        log.error("Currency whit idFrom = {} or idTo = {} not found", idFrom, idTo);
+        throw new NotFoundException("Currency whit id = " + idFrom + " or " + idTo + " does not exists");
     }
 
-    public String findById(int id) {
+    private String findById(int id) throws NotFoundException {
         Optional<ExchangeRates> byId = exchangeRatesRepository.findById(id);
-        return byId.get().getCurrency();
+        if (byId.isPresent()) {
+            return byId.get().getCurrency();
+        }
+        log.error("Currency whit id = {} not found", id);
+        throw new NotFoundException("Currency whit id = " + id + " does not exists");
+    }
+
+    public ExchangeDto total(int idFrom, int idTo, BigDecimal sum) {
+        try {
+            BigDecimal rate = change(idFrom, idTo);
+            String currencyNameFrom = findById(idFrom);
+            String currencyNameTo = findById(idTo);
+            BigDecimal total = (rate.multiply(sum)).setScale(3, RoundingMode.HALF_UP);
+            return ExchangeDto.builder()
+                    .currencyNameFrom(currencyNameFrom)
+                    .currencyNameTo(currencyNameTo)
+                    .total(total)
+                    .rate(rate)
+                    .build();
+        } catch (NotFoundException e) {
+            log.error("Currency whit idFrom = {} or idTo = {} not found", idFrom, idTo);
+            return null;
+        }
     }
 }

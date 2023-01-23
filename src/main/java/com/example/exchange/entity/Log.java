@@ -6,6 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import java.math.BigDecimal;
 import java.time.LocalDate;
 
 @Data
@@ -24,5 +25,7 @@ public class Log {
     private LocalDate date;
     private String currencyNameFrom;
     private String currencyNameTo;
-    private Double rate;
+    private BigDecimal rate;
+
+
 }

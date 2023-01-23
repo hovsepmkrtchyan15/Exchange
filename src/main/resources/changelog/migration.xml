@@ -15,7 +15,8 @@
             <column name="currency" type="varchar(255)">
                 <constraints nullable="true"/>
             </column>
-            <column name="rates" type="double">
+            <column name="rate" type="decimal(10,3)">
+
                 <constraints nullable="true"/>
             </column>
             <column name="date" type="date">
@@ -55,7 +56,7 @@
             <column name="currency_name_to" type="varchar(255)">
                 <constraints nullable="false"/>
             </column>
-            <column name="rate" type="DOUBLE" >
+            <column name="rate" type="decimal(10,3)" >
                 <constraints nullable="false"/>
             </column>
 

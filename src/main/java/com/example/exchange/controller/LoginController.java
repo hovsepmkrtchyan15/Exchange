@@ -24,7 +24,8 @@ public class LoginController {
     private final LoginService loginService;
 
     @GetMapping(value = "/")
-    public String loginPage(@RequestParam(value = "error", required = false) String error, ModelMap modelMap) {
+    public String loginPage(@RequestParam(value = "error", required = false)
+                            String error, ModelMap modelMap) {
         if (error != null && error.equals("true"))
             modelMap.addAttribute("error", "true");
         return "/loginPage";

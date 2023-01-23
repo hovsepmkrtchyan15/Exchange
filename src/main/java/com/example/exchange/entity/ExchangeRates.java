@@ -1,18 +1,18 @@
 package com.example.exchange.entity;
 
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import javax.persistence.*;
+import java.math.BigDecimal;
 import java.time.LocalDate;
 
-@Data
+@Getter
+@Setter
+@ToString
+@Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 @Entity
 @Table(name = "exchange_rates")
 public class ExchangeRates {
@@ -20,6 +20,7 @@ public class ExchangeRates {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     private String currency;
-    private Double rates;
+    private BigDecimal rate;
     private LocalDate date;
+
 }

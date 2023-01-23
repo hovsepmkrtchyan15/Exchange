@@ -11,4 +11,8 @@ import java.util.Optional;
 public interface ExchangeRatesRepository extends JpaRepository<ExchangeRates, Integer> {
 
     Optional<List<ExchangeRates>> findAllByDate(LocalDate date);
+
+
+
+
 }

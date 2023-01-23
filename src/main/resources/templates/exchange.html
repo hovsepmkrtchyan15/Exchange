@@ -91,7 +91,7 @@
                         <form class="ctp-banner-form" action="/exchange/currency"  method="post">
                             <div class="form-header">
                                 <span>Exchange Rate</span>
-                                <h3 th:if="${currencyNameFrom !=null}" th:text="1 +' '+ ${currencyNameFrom} +' = ' +  ${rate} +' '+ ${currencyNameTo}"  ></h3>
+                                <h3 th:if="${total.getCurrencyNameTo() !=null}" th:text="1 +' '+ ${total.getCurrencyNameFrom()} +' = ' +  ${total.getRate()} +' '+ ${total.getCurrencyNameTo()}"  ></h3>
                             </div>
                             <div class="form-content">
                                 <div class="form-group">
@@ -127,7 +127,7 @@
                                     </div>
                                 </div>
                                 <div class="info">
-                                    <p th:if="${total!=null}" th:text= "'Total: ' + ${total}"></p>
+                                    <p th:if="${total.getTotal()!=null}" th:text= "'Total: ' + ${total.getTotal()}"></p>
                                 </div>
                                 <button type="submit" class="btn btn-primary">Exchange</button>
                             </div>

@@ -12,6 +12,21 @@ spring:
       pageable:
         one-indexed-parameters: true
 
-exchange:
-  currency:
-    url: https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: full
+
+logging:
+  logback:
+    rollingpolicy:
+      file-name-pattern: ${LOG_FILE}.%d{yyyy-MM-dd}.%i.gz # by date
+      max-file-size: 10MB # by size
+  file:
+    name: C:\Users\Hoso\IdeaProjects\Exchange\log\application.log
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss}  %-5level %logger{36} - %msg%n"
+  level:
+    root: info
+    com.example: info

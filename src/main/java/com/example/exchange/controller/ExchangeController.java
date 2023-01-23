@@ -1,5 +1,6 @@
 package com.example.exchange.controller;
 
+import com.example.exchange.dto.ExchangeDto;
 import com.example.exchange.entity.ExchangeRates;
 import com.example.exchange.security.CurrentUser;
 import com.example.exchange.service.ExchangeService;
@@ -10,12 +11,12 @@ import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import java.text.DecimalFormat;
-import java.text.ParseException;
+import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.List;
 
@@ -26,49 +27,31 @@ import java.util.List;
 public class ExchangeController {
     private final ExchangeService exchangeService;
     private final LogService logService;
-    private final DecimalFormat decimalFormat = new DecimalFormat("##0.000");
+
 
     @GetMapping("/exchange")
     public String exchange(ModelMap modelMap,
-                           @RequestParam(value = "total", required = false) String total,
-                           @RequestParam(value = "rate", required = false) String rate,
-                           @RequestParam(value = "currencyNameFrom", required = false) String currencyNameFrom,
-                           @RequestParam(value = "currencyNameTo", required = false) String currencyNameTo
-
-    ) throws ParseException {
+                           @ModelAttribute ExchangeDto exchangeDto) {
         List<ExchangeRates> exchangeRatesList = exchangeService.findAllByDate(LocalDate.now());
         modelMap.addAttribute("erl", exchangeRatesList);
-        modelMap.addAttribute("total", total);
-        modelMap.addAttribute("rate", rate);
-        modelMap.addAttribute("currencyNameFrom", currencyNameFrom);
-        modelMap.addAttribute("currencyNameTo", currencyNameTo);
-
+        modelMap.addAttribute("total", exchangeDto);
         return "/exchange";
     }
 
     @PostMapping("/exchange/currency")
     public String change(@RequestParam(value = "idFrom", required = false) int idFrom,
                          @RequestParam(value = "idTo", required = false) int idTo,
-                         @RequestParam(value = "keyword", required = false) Double sum,
+                         @RequestParam(value = "keyword", required = false) BigDecimal sum,
                          @AuthenticationPrincipal CurrentUser currentUser,
                          RedirectAttributes redirectAttributes) {
-        Double rate = exchangeService.change(idFrom, idTo);
-        String rateStr = decimalFormat.format(rate);
-
-        String currencyNameFrom = exchangeService.findById(idFrom);
-        String currencyNameTo = exchangeService.findById(idTo);
-
-        Double total = rate * sum;
-        String totalStr = decimalFormat.format(total);
-
-        redirectAttributes.addAttribute("total", totalStr);
-        redirectAttributes.addAttribute("rate", rateStr);
-        redirectAttributes.addAttribute("currencyNameFrom", currencyNameFrom);
-        redirectAttributes.addAttribute("currencyNameTo", currencyNameTo);
+        ExchangeDto exchangeDto = exchangeService.total(idFrom, idTo, sum);
+        redirectAttributes.addFlashAttribute(exchangeDto);
         log.info("conversion done {}, from {} in {}, at the rate {}, date - {}",
-                currentUser.getUsername(), currencyNameFrom, currencyNameTo, rate, LocalDate.now());
-        logService.saveLog(currencyNameFrom, currencyNameTo, rate, currentUser);
+                currentUser.getUsername(), exchangeDto.getCurrencyNameFrom(), exchangeDto.getCurrencyNameTo(),
+                exchangeDto.getRate(), LocalDate.now());
+        logService.saveLog(exchangeDto.getCurrencyNameFrom(), exchangeDto.getCurrencyNameTo(), exchangeDto.getRate(), currentUser);
 
         return "redirect:/exchange";
     }
+
 }
